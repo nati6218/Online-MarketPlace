@@ -11,3 +11,9 @@ h1{
 body{
   margin: 30px;
 }
+#receipt{
+  display: none;
+}
+#online-order{
+  display: none;
+}
